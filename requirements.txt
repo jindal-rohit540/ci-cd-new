@@ -8,11 +8,11 @@ itsdangerous==2.2.0
 Jinja2==3.1.5
 joblib==1.4.2
 MarkupSafe==3.0.2
-numpy==2.2.3
+numpy==1.26.4  # Compatible with pandas, scikit-learn, and scipy
+pandas==2.2.1  # Compatible with Python 3.12
 requests==2.32.3
 scikit-learn==1.6.1
 scipy==1.15.2
 threadpoolctl==3.5.0
 urllib3==2.3.0
 Werkzeug==3.1.3
-pandas==2.2.1
